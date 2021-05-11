@@ -1,0 +1,4 @@
+- creat_txt.py：生成 	`图片绝对路径     类别标签`   的txt文件
+- My_resnet18：手写版resnet18
+- Res.py ：  整个训练过程（暂时使用的是pytorch自带的resnet18）
+- 很多地方有待改进，等我写出第二个版本来！！！
