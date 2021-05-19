@@ -18,7 +18,6 @@
 
 - 关掉数据增广，跑出一个曲线较稳定的baseline
 - 由2分类扩展到10分类
-- 先不加数据增广作为baseline，因为曲线震荡比较严重
 - 打印learning rate信息，在visdom上将learning rate - epoch曲线画出来
 
 ![image-20210509103842979](Readme.assets/image-20210509103842979.png)
